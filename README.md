@@ -4,8 +4,6 @@ A simple neural network implemented completely from scratch using **NumPy** to s
 
 This project manually builds the core components of a neural network — without using frameworks like TensorFlow or PyTorch — to help you understand how neural networks work under the hood.
 
----
-
 ## Features
 
 - Dense (Fully Connected) layers
@@ -14,17 +12,11 @@ This project manually builds the core components of a neural network — without
 - Categorical Cross-Entropy loss calculation
 - Forward propagation implemented with NumPy
 
----
-
-## Tech
-
 This project uses:
 
 - **Python**
 - **NumPy**
 - **nnfs** (for generating the spiral dataset)
-
----
 
 ## Get Started
 
